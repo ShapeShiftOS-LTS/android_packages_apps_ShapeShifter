@@ -30,6 +30,7 @@
     <string name="accessibility_item_description">%1$s menu item</string>
 
 <!-- CATEGORIES -->
+
     <!-- Actions -->
     <string name="powerbutton_title">Power button</string>
     <string name="powerbutton_summary">Configure additional options &amp; actions</string>
@@ -75,7 +76,7 @@
     <string name="custom_fod_icon_explainer">To use your own static FOD icon, use the OPFP app. Make sure to have the animated FOD icon disabled when using a custom icon in OPFP.</string>
     <string name="custom_fod_icon_png_explainer">You can download your own custom FOD icon PNGs from Telegram channels such as FODicons and OP_fps. Use a local gallery and not online services such as Google Photos to pick FOD icons.</string>
 
-    <!-- System/ Misc -->
+    <!-- System/Misc -->
     <string name="animations_category_title">Animations</string>
     <string name="animations_category_summary">Set custom animations for certain transitions</string>
     <string name="general_notifications_title">General notifications</string>
@@ -89,6 +90,7 @@
     <string name="led_settings_summary">Configure the LED light for supported options</string>
 
 <!-- OTHER -->
+
     <!-- Empty Preference Screen (if applicable) -->
     <string name="empty_category_title">No extra features yet...</string>
     <string name="empty_category_description">However, new features may be added here soon. Check back after future updates!</string>
@@ -123,9 +125,11 @@
     <string name="shapeshiftos_about_summary">A little info about the team</string>
     <string name="shapeshiftos_telegram_title">ShapeShiftOS Telegram Community</string>
     <string name="shapeshiftos_telegram_summary"><a href="https://t.me/s/shapeshiftos">Join our wonderful community here!</a></string>
-    <string name="shapeshiftos_github_title">ShapeShiftOS Github</string>
+    <string name="shapeshiftos_github_title">ShapeShiftOS GitHub</string>
     <string name="shapeshiftos_github_summary"><a href="https://www.github.com/ShapeShiftOS">See the ShapeShiftOS source code here!</a></string>
-    <string name="shapeshiftos_about_info_summary">ShapeShiftOS is a new custom ROM that aims to offer a clean experience. We are an AOSP based custom ROM, twisted with the latest features from all over the Android development community. Quality and stability is our first priority as we are dedicated to bringing you the very best that Android has to offer.</string>
+    <string name="shapeshiftos_lts_github_title">ShapeShiftOS LTS GitHub</string>
+    <string name="shapeshiftos_lts_github_summary"><a href="https://www.github.com/ssos-a11-asb">See the LTS source code here!</a></string>
+    <string name="shapeshiftos_about_info_summary">ShapeShiftOS is a new custom ROM that aims to offer a clean experience. We are an AOSP based custom ROM, twisted with the latest features from all over the Android development community. Quality and stability is our first priority as we are dedicated to bringing you the very best that Android has to offer. This unofficial LTS version has the goal of keeping the security patches updated while keeping everything else like it was on the last official release, except for some minor features.</string>
     <string name="shapeshiftos_about_team">ShapeShiftOS team</string>
     <string name="shapeshiftos_about_ashutosh" translatable="false">AshutoshSundresh (surfaceflinger)</string>
     <string name="shapeshiftos_about_ashutosh_summary" translatable="false">Lead Developer</string>
@@ -137,6 +141,8 @@
     <string name="shapeshiftos_about_pp_summary" translatable="false">Source Maintainer</string>
     <string name="shapeshiftos_about_neel" translatable="false">Neel Mandal</string>
     <string name="shapeshiftos_about_neel_summary" translatable="false">Project Contributor</string>
+    <string name="shapeshiftos_about_leddaz" translatable="false">Leonardo Ledda (LeddaZ)</string>
+    <string name="shapeshiftos_about_leddaz_summary" translatable="false">LTS Maintainer</string>
     <string name="about_maintainer">Maintainer</string>
     <string name="shapeshiftos_about_maintainer">The maintainer for your device is</string>
     <string name="shapeshiftos_about_maintainer_summary" translatable="false">Too lazy to fill this up</string>
@@ -154,8 +160,8 @@
     <string name="unsupported_feature_summary">This feature is unsupported by your device</string>
 
     <!-- AICP SU libs -->
-    <string name="selinux_permissive_toast_title">Selinux set to permissive!</string>
-    <string name="selinux_enforcing_toast_title">Selinux set to enforcing!</string>
+    <string name="selinux_permissive_toast_title">SELinux set to Permissive!</string>
+    <string name="selinux_enforcing_toast_title">SELinux set to Enforcing!</string>
     <string name="cannot_get_su">Action failed because of missing superuser access</string>
 
     <!-- Accents -->

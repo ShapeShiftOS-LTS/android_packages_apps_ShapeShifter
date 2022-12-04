@@ -55,7 +55,6 @@ public class ShapeShifterSettings extends SettingsPreferenceFragment {
     private static final String TAG = "ShapeShifterSettings";
 
     Context mContext;
-//    View view;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,

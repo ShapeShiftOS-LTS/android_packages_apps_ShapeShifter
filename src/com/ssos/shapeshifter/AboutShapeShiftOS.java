@@ -42,7 +42,7 @@ public class AboutShapeShiftOS extends DialogFragment {
     }
 
     public static AboutShapeShiftOS newInstance() {
-        return new AboutShapeShiftOS ();
+        return new AboutShapeShiftOS();
     }
 
     @Override

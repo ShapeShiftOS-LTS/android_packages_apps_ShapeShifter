@@ -111,6 +111,25 @@
                 android:textSize="14sp" />
 
             <TextView
+                android:id="@+id/ltsGithubTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="30dp"
+                android:text="@string/shapeshiftos_lts_github_title"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/ltsGithubSummary"
+                android:layout_width="260dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
+                android:text="@string/shapeshiftos_lts_github_summary"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textSize="14sp" />
+
+            <TextView
                 android:id="@+id/teamCat"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -214,6 +233,25 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="25dp"
                 android:text="@string/shapeshiftos_about_neel_summary"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/leddazTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="12dp"
+                android:text="@string/shapeshiftos_about_leddaz"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/leddazSummary"
+                android:layout_width="260dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
+                android:text="@string/shapeshiftos_about_leddaz_summary"
                 android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                 android:textSize="14sp" />
 
