@@ -81,5 +81,8 @@ public class AboutShapeShiftOS extends DialogFragment {
 
         TextView github = view.findViewById(R.id.githubSummary);
         github.setMovementMethod(LinkMovementMethod.getInstance());
+
+        TextView githubLts = view.findViewById(R.id.ltsGithubSummary);
+        githubLts.setMovementMethod(LinkMovementMethod.getInstance());
     }
 }

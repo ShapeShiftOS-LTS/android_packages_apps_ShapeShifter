@@ -126,9 +126,9 @@
     <string name="shapeshiftos_telegram_title">ShapeShiftOS Telegram Community</string>
     <string name="shapeshiftos_telegram_summary"><a href="https://t.me/s/shapeshiftos">Join our wonderful community here!</a></string>
     <string name="shapeshiftos_github_title">ShapeShiftOS GitHub</string>
-    <string name="shapeshiftos_github_summary"><a href="https://www.github.com/ShapeShiftOS">See the ShapeShiftOS source code here!</a></string>
+    <string name="shapeshiftos_github_summary"><a href="https://github.com/ShapeShiftOS">See the ShapeShiftOS source code here!</a></string>
     <string name="shapeshiftos_lts_github_title">ShapeShiftOS LTS GitHub</string>
-    <string name="shapeshiftos_lts_github_summary"><a href="https://www.github.com/ssos-a11-asb">See the LTS source code here!</a></string>
+    <string name="shapeshiftos_lts_github_summary"><a href="https://github.com/ShapeShiftOS-LTS">See the LTS source code here!</a></string>
     <string name="shapeshiftos_about_info_summary">ShapeShiftOS is a new custom ROM that aims to offer a clean experience. We are an AOSP based custom ROM, twisted with the latest features from all over the Android development community. Quality and stability is our first priority as we are dedicated to bringing you the very best that Android has to offer. This unofficial LTS version has the goal of keeping the security patches updated while keeping everything else like it was on the last official release, except for some minor features.</string>
     <string name="shapeshiftos_about_team">ShapeShiftOS team</string>
     <string name="shapeshiftos_about_ashutosh" translatable="false">AshutoshSundresh (surfaceflinger)</string>
